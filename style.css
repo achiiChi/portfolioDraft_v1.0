@@ -32,11 +32,13 @@ body {
 }
 
 .global-background {
-    background: linear-gradient(
+    /* background: linear-gradient(
         135deg,
         rgba(217, 228, 245, 0.5) 0%,
         rgba(245, 217, 240, 0.5) 100%
-    ), url(photos/blue_sky.jpg);
+    ), url(photos/blue_sky.jpg); */
+
+    background: url(photos/myWall.jpeg);
     
     background-size: cover;
     background-position: center;
@@ -50,15 +52,23 @@ body {
 /* home page */
 
 .hero-home {
+    /* background: linear-gradient(
+        135deg,
+        rgba(217, 228, 245, 0.5) 0%,
+        rgba(245, 217, 240, 0.5) 100%
+    ), url(photos/blue_sky.jpg); */
+
     background: linear-gradient(
         135deg,
         rgba(217, 228, 245, 0.5) 0%,
         rgba(245, 217, 240, 0.5) 100%
-    ), url(photos/blue_sky.jpg);
+    ), url(photos/myWall.jpeg);;
+
+    /* background: url(photos/myWall.jpeg); */
     
     background-size: cover;
     background-position: center;
-    /* backdrop-filter: blur(1px); */
+    /* backdrop-filter: blur(3px); */
 
     height: 100vh;
     display: flex;
@@ -186,6 +196,12 @@ body {
 /* about page */
 
 .hero-about {
+    /* background: linear-gradient(
+        135deg,
+        rgba(217, 228, 245, 0.5) 0%,
+        rgba(245, 217, 240, 0.5) 100%
+    ); */
+    
     background: linear-gradient(
         135deg,
         rgba(217, 228, 245, 0.5) 0%,
