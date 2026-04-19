@@ -38,7 +38,7 @@ body {
         rgba(245, 217, 240, 0.5) 100%
     ), url(photos/blue_sky.jpg); */
 
-    background: url(photos/myWall.jpeg);
+    background: url(photos/myWall.webp);
     
     background-size: cover;
     background-position: center;
@@ -62,7 +62,7 @@ body {
         135deg,
         rgba(217, 228, 245, 0.5) 0%,
         rgba(245, 217, 240, 0.5) 100%
-    ), url(photos/myWall.jpeg);;
+    ), url(photos/myWall.webp);;
 
     /* background: url(photos/myWall.jpeg); */
     
