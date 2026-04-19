@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const headerEl = document.querySelector(".banner");
     if (headerEl) {
         headerEl.innerHTML = `
-            <h1>Hi I am Red Panda</h1>
+            <h1>Hi I am Kanlayanee</h1>
             <p>Nice to Meet You!</p>
         `;
     }
