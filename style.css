@@ -24,8 +24,8 @@ body {
     text-align: center;
     padding: 20px 0;
     font-size: 13px;
-    color: #6b8fc7;
-    background: rgba(255, 255, 255, 0.3);
+    color:#1c5eca;
+    background: rgba(230, 230, 170, 0.3);
     backdrop-filter: blur(6px);
     -webkit-backdrop-filter: blur(6px);
     border-top: 1px solid rgba(255, 255, 255, 0.4);
@@ -378,22 +378,31 @@ body {
     color: #1c5eca;
 }
 
-.social-btn i{
-    font-size: 12px;
-}
-
 .fa-youtube { color: #ff0000; }
 .fa-github { color: #333; }
 
 .resume-button {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+
     padding: 13px 27px;
     border-radius: 50px;
-    border: none;
-    color: white;
-
-    background-color: rgba(166,196,232);
+    
+    font-size: 13px;
     font-weight: 600;
+    
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    background-color: rgba(166,196,232);
+    color: white;
+    
     cursor: pointer;
+}
+
+a:has(.resume-button) {
+    text-decoration: none;
 }
 
 .about-main-content {
@@ -613,8 +622,8 @@ body {
     .resume-button {
         width: 100%;
         max-width: none;
-        display: block;
-        box-sizing: border-box;
+        /* display: block; */
+        /* box-sizing: border-box; */
     }
     
     .about-sum-content > a {
