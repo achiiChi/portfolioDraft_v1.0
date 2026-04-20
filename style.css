@@ -1523,6 +1523,8 @@ p.contact-how {
     font-size: 13px;
     font-style: italic;
     opacity: 0.9;
+
+    margin-top: 3px;
 }
 
 .resume-button-contact{
