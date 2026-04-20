@@ -1426,7 +1426,7 @@ a:has(.resume-button) {
     justify-content: center;
 
     min-height: calc(100vh - 350px); 
-    margin: 10px 0;
+    margin: 10px 0 70px 0;
 }
 
 .contact-card {
