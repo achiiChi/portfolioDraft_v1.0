@@ -205,8 +205,8 @@ body {
     
     background: linear-gradient(
         135deg,
-        rgba(217, 228, 245, 0.5) 0%,
-        rgba(245, 217, 240, 0.5) 100%
+        rgba(217, 228, 245, 0.5) 13%,
+        rgba(245, 217, 240, 0.5) 13%
     );
 
     height: 100vh;
@@ -857,8 +857,8 @@ a:has(.resume-button) {
 .hero-skills {
     background: linear-gradient(
         135deg,
-        rgba(217, 228, 245, 0.5) 0%,
-        rgba(245, 217, 240, 0.5) 100%
+        rgba(217, 228, 245, 0.5) 13%,
+        rgba(245, 217, 240, 0.5) 13%
     );
 
     height: 100vh;
@@ -1013,8 +1013,8 @@ a:has(.resume-button) {
 .hero-experience {
     background: linear-gradient(
         135deg,
-        rgba(217, 228, 245, 0.5) 0%,
-        rgba(245, 217, 240, 0.5) 100%
+        rgba(217, 228, 245, 0.5) 13%,
+        rgba(245, 217, 240, 0.5) 13%
     );
 
     height: 100vh;
@@ -1260,8 +1260,8 @@ a:has(.resume-button) {
 .hero-hobbies {
     background: linear-gradient(
         135deg,
-        rgba(217, 228, 245, 0.5) 0%,
-        rgba(245, 217, 240, 0.5) 100%
+        rgba(217, 228, 245, 0.5) 13%,
+        rgba(245, 217, 240, 0.5) 13%
     );
 
     height: 100vh;
@@ -1409,8 +1409,8 @@ a:has(.resume-button) {
 
     background: linear-gradient(
         135deg,
-        rgba(217, 228, 245, 0.5) 0%,
-        rgba(245, 217, 240, 0.5) 100%
+        rgba(217, 228, 245, 0.5) 13%,
+        rgba(245, 217, 240, 0.5) 13%
     );
 
     margin: 0;
