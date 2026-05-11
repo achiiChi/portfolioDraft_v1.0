@@ -58,13 +58,13 @@ body {
         rgba(245, 217, 240, 0.5) 100%
     ), url(photos/blue_sky.jpg); */
 
-    background: linear-gradient(
+    /* background: linear-gradient(
         135deg,
         rgba(217, 228, 245, 0.5) 0%,
         rgba(245, 217, 240, 0.5) 100%
-    ), url(photos/myWall.webp);;
+    ), url(photos/myWall.webp);; */
 
-    /* background: url(photos/myWall.jpeg); */
+    background: url(photos/myWall.jpeg);
     
     background-size: cover;
     background-position: center;
@@ -203,11 +203,11 @@ body {
         rgba(245, 217, 240, 0.5) 100%
     ); */
     
-    background: linear-gradient(
+    /* background: linear-gradient(
         135deg,
         rgba(217, 228, 245, 0.5) 13%,
         rgba(245, 217, 240, 0.5) 13%
-    );
+    ); */
 
     height: 100vh;
     overflow: auto;
@@ -855,11 +855,11 @@ a:has(.resume-button) {
 /* skills page */
 
 .hero-skills {
-    background: linear-gradient(
+    /* background: linear-gradient(
         135deg,
         rgba(217, 228, 245, 0.5) 13%,
         rgba(245, 217, 240, 0.5) 13%
-    );
+    ); */
 
     height: 100vh;
     overflow: auto;
@@ -1011,11 +1011,11 @@ a:has(.resume-button) {
 /* experience page */
 
 .hero-experience {
-    background: linear-gradient(
+    /* background: linear-gradient(
         135deg,
         rgba(217, 228, 245, 0.5) 13%,
         rgba(245, 217, 240, 0.5) 13%
-    );
+    ); */
 
     height: 100vh;
     overflow: auto;
@@ -1258,11 +1258,11 @@ a:has(.resume-button) {
 /* hobbies page */
 
 .hero-hobbies {
-    background: linear-gradient(
+    /* background: linear-gradient(
         135deg,
         rgba(217, 228, 245, 0.5) 13%,
         rgba(245, 217, 240, 0.5) 13%
-    );
+    ); */
 
     height: 100vh;
     overflow: auto;
@@ -1407,11 +1407,11 @@ a:has(.resume-button) {
 
 .hero-contact {
 
-    background: linear-gradient(
+    /* background: linear-gradient(
         135deg,
         rgba(217, 228, 245, 0.5) 13%,
         rgba(245, 217, 240, 0.5) 13%
-    );
+    ); */
 
     margin: 0;
     height: 100vh;
